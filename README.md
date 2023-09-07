@@ -1,4 +1,4 @@
-echo "# Sticky Note Management System
+# Sticky Note Management System
 
 Welcome to the Sticky Note Management System, a full-stack MERN (MongoDB, Express.js, React.js, Node.js) project designed to replace the current sticky note system in your organization. This application allows you to efficiently manage and track notes, assign them to specific employees, and control user roles and permissions.
 
@@ -10,8 +10,6 @@ Welcome to the Sticky Note Management System, a full-stack MERN (MongoDB, Expres
 - [Usage](#usage)
 - [Roles and Permissions](#roles-and-permissions)
 - [Screenshots](#screenshots)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Project Overview
 
@@ -20,6 +18,47 @@ The Sticky Note Management System is designed to streamline your note-taking pro
 1. **Replace Current Sticky Note System:** Transition from traditional sticky notes to a digital, more organized solution.
 
 2. **Public-Facing Page:** Display basic contact information to the public.
+
+3. **Employee Login:** Secure login system for employees to access the notes app.
+
+4. **Welcome Page:** A welcoming interface after successful login.
+
+5. **Easy Navigation:** User-friendly navigation throughout the application.
+
+6. **User Information:** Display the current user's information and assigned role.
+
+7. **Logout Option:** Allow users to log out when they are done.
+
+8. **User Authentication:** Require users to login at least once per week for security.
+
+9. **Employee Access Management:** Provide the ability to revoke employee access quickly if needed.
+
+10. **Note Management:**
+
+    - Notes are assigned to specific employees.
+    - Notes have a ticket number, title, note body, created date, and updated date.
+    - Notes can be in either OPEN or COMPLETED status.
+    - Users can be Employees, Managers, or Admins.
+
+11. **Permissions:**
+
+    - Notes can only be deleted by Managers or Admins.
+    - Anyone can create a note when a customer checks in.
+    - Employees can only view and edit their assigned notes.
+    - Managers and Admins can view, edit, and delete all notes.
+
+12. **User Settings:**
+
+    - Only Managers and Admins can access User Settings.
+    - Only Managers and Admins can create new users.
+
+13. **Responsive Design:**
+
+    - The application is primarily designed for desktop use but is also accessible on mobile devices." > README.md
+
+14. **Replace Current Sticky Note System:** Transition from traditional sticky notes to a digital, more organized solution.
+
+15. **Public-Facing Page:** Display basic contact information to the public.
 
 ...
 

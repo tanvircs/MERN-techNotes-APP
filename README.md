@@ -60,8 +60,13 @@ The Sticky Note Management System is designed to streamline your note-taking pro
 
 15. **Public-Facing Page:** Display basic contact information to the public.
 
-...
+## Installation
 
-## License
+To run this project locally, follow these steps:
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details." > README.md
+1. Clone this repository to your local machine:
+
+```
+git clone https://github.com/your-username/sticky-note-management-system.git
+
+```

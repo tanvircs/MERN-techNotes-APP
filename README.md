@@ -96,6 +96,6 @@ npm run dev
 ## Roles and Permissions
 
 - **Admins**
-- Create and manage users.
+  - Create and manage users.
 - **Managers**
 - **Employees**

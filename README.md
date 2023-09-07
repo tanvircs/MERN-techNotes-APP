@@ -67,6 +67,35 @@ To run this project locally, follow these steps:
 1. Clone this repository to your local machine:
 
 ```
-git clone https://github.com/your-username/sticky-note-management-system.git
+git clone https://github.com/tanvircs/MERN-techNotes-APP.git
 
 ```
+
+2. Install server dependencies:
+
+```
+npm install
+
+```
+
+3. Start the server and client concurrently:
+
+```
+npm run dev
+
+```
+
+## Usage
+
+1. Register an Admin user to get started.
+2. Log in with your Admin credentials.
+3. Create new users with different roles (Admin, Manager, Employee).
+4. Create, edit, and manage notes according to your role.
+5. Explore the user settings section for additional controls.
+
+## Roles and Permissions
+
+- **Admins**
+- Create and manage users.
+- **Managers**
+- **Employees**

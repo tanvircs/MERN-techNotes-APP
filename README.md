@@ -5,7 +5,6 @@ Welcome to the Sticky Note Management System, a full-stack MERN (MongoDB, Expres
 ## Table of Contents
 
 - [Project Overview](#project-overview)
-- [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Roles and Permissions](#roles-and-permissions)

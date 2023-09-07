@@ -1,0 +1,29 @@
+{
+  "name": "mern-technotes-app",
+  "version": "1.0.0",
+  "description": "Welcome to the Sticky Note Management System, a full-stack MERN (MongoDB, Express.js, React.js, Node.js) project designed to replace the current sticky note system in your organization. This application allows you to efficiently manage and track notes, assign them to specific employees, and control user roles and permissions.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server",
+    "dev": "nodemon server"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "date-fns": "^2.30.0",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "express-async-errors": "^3.1.1",
+    "express-rate-limit": "^6.11.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^7.5.0",
+    "mongoose-sequence": "^5.3.1",
+    "uuid": "^9.0.0"
+  }
+}

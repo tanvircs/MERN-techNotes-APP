@@ -97,5 +97,12 @@ npm run dev
 
 - **Admins**
   - Create and manage users.
+  - Access user settings.
+  - Create, edit, and delete all notes.
+  - Logout option.
 - **Managers**
+  - Create and manage users.
+  - Logout option.
 - **Employees**
+  - View and edit assigned notes only.
+  - Logout option.
